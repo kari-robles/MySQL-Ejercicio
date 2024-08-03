@@ -1,0 +1,1 @@
+SELECT * FROM elektra_ej.users;
